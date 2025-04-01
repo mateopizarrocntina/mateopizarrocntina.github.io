@@ -1,0 +1,31 @@
+body {
+    background: black;
+    text-align: center;
+}
+h1 {
+    color: whitesmoke;
+    font-size: 50px;
+    box-shadow: 10px 10px 30px 10px rebeccapurple;
+}
+
+h2 {
+    color: whitesmoke;
+    font-size: 50px;
+    box-shadow: 10px 10px 30px 10px rebeccapurple;
+}
+
+
+p {
+    border: 5px solid crimson;
+    color: whitesmoke;
+    font-size: 25px;
+    box-shadow: 10px 10px 30px 10px rebeccapurple;
+}
+
+.h1border{
+    border: 5px solid crimson;
+}
+
+.h2border{
+    border: 5px solid crimson;
+}
